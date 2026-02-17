@@ -17,12 +17,12 @@ background_color: '#ffffff',
 theme_color: '#4a90e2',
 icons: [
 {
-src: 'pwa-192x192.png',
+src: 'Kirby192-192.png',
 sizes: '192x192',
 type: 'image/png'
 },
 {
-src: 'pwa-512x512.png',
+src: 'Kirby512-512.png',
 sizes: '512x512',
 type: 'image/png'
 }
